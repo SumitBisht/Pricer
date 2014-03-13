@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="laitkor-P052" name="pricer.ProductTests" tests="2" time="0.926" timestamp="2014-03-13T13:47:22">
+  <properties />
+  <testcase classname="pricer.ProductTests" name="testDesiredPricesZero" time="0.865" />
+  <testcase classname="pricer.ProductTests" name="testForumlaIncrements" time="0.032" />
+  <system-out><![CDATA[--Output from testDesiredPricesZero--
+--Output from testForumlaIncrements--
+]]></system-out>
+  <system-err><![CDATA[--Output from testDesiredPricesZero--
+--Output from testForumlaIncrements--
+]]></system-err>
+</testsuite>

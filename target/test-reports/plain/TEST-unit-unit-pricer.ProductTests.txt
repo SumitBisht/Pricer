@@ -1,0 +1,13 @@
+Testsuite: pricer.ProductTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.926 sec
+------------- Standard Output ---------------
+--Output from testDesiredPricesZero--
+--Output from testForumlaIncrements--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testDesiredPricesZero--
+--Output from testForumlaIncrements--
+------------- ---------------- ---------------
+
+Testcase: testDesiredPricesZero took 0.865 sec
+Testcase: testForumlaIncrements took 0.032 sec

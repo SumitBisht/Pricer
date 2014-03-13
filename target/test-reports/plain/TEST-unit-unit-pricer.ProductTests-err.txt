@@ -1,0 +1,2 @@
+--Output from testDesiredPricesZero--
+--Output from testForumlaIncrements--
